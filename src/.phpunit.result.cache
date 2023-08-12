@@ -1,0 +1,1 @@
+C:37:"PHPUnit\Runner\DefaultTestResultCache":198:{a:2:{s:7:"defects";a:2:{s:7:"Warning";i:6;s:43:"tests\Unit\RouterTest::it_registers_a_route";i:3;}s:5:"times";a:2:{s:7:"Warning";d:0.003;s:43:"tests\Unit\RouterTest::it_registers_a_route";d:0.003;}}}
